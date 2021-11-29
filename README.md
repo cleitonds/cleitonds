@@ -1,16 +1,18 @@
-### Olá, como vão? 👋
-
-- 💻 Atualmente eu trabalho como educador social e assistente administrativo
-- 🤞 Estou em transição de carreira
-
-- 📝 Neste momento, estou adquirindo conhecimentos em:
+## Olá, como vai? 👋🏾
 
 
-- Git/Github 🔓    - HTML5 e CSS3 🔓
-- Lógica de programação 🔓    - Javascript 🔓
+- 👨🏾‍💼💻 Atualmente eu trabalho como educador social e assistente administrativo
+- 🤞🏾 Estou em transição de carreira
 
-- Desejo ser um novo dev.
+- 📚 Neste momento estou adquirindo conhecimentos em:
 
+
+- 📝 Git e Github 🔓    
+- 📝 HTML5 e CSS3 🔓
+- 📝 Lógica de programação 🔓    
+- 📝 Javascript 🔓
+
+##
 
 <div align="center">
   <a href="https://github.com/cleitonds">
