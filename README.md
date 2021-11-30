@@ -6,10 +6,9 @@
 
 - 📚 Neste momento estou adquirindo conhecimentos em:
 
-
+- 📝 Lógica de programação 🔓 
 - 📝 Git e Github 🔓    
 - 📝 HTML5 e CSS3 🔓
-- 📝 Lógica de programação 🔓    
 - 📝 Javascript 🔓
 
 ##
